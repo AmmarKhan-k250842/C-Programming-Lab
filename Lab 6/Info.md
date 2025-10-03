@@ -1,1 +1,3 @@
-## Code of tasks and content done in lab six
+## Lab 6
+
+All tasks of lab 6 done and submitted 
